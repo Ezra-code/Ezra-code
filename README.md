@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ezra Njeru
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator](https://www.canva.com/design/DAFOLGRa_XE/dJsAKap3gqFhrLL9lyvVtg/edit?utm_content=DAFOLGRa_XE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
