@@ -2,13 +2,20 @@
 <h3 align="center">A passionate software developer from Kenya</h3>
 <img align='right' width='400' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="me.png"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezra-code&label=Profile%20views&color=0e75b6&style=flat" alt="ezra-code" /> </p>
+- 🔭 I’m currently working on **A personal portfolio**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezra-code" alt="ezra-code" /></a> </p>
+- 🌱 I’m currently learning **C++**
 
-- 🌱 I’m currently learning **C++ and C#**
+- 🤝 I’m looking for help with **mobile development**
 
 - 💬 Ask me about **Web Development**
+
+- 📫 How to reach me **njerukithinji872@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezra-code&label=Profile%20views&color=0e75b6&style=flat" alt="ezra-code" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezra-code" alt="ezra-code" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
